@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
 <head>
-<title> Hello DevOps Class/title
+<title> Hello DevOps Class</title>
 </head>
 <body>
     <?php
